@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ld32</name>
+	<name>ld32unconventionalWeapon</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -13,11 +13,4 @@
 	<cocosprojecttemplate>
 		<version>1.2</version>
 	</cocosprojecttemplate>
-    <linkedResources>
-        <link>
-            <name>script</name>
-            <type>2</type>
-            <locationURI>PROJECT_LOC/frameworks/js-bindings/bindings/script</locationURI>
-        </link>
-	</linkedResources>
 </projectDescription>
